@@ -1,0 +1,47 @@
+name: exchange_rate
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.2.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  flutter_svg: ^2.0.10+1
+  http: ^1.2.1
+  intl: 0.18.1
+  persistent_bottom_nav_bar_v2: ^4.2.8
+  provider: ^6.1.2
+  rive: ^0.13.4
+  rive_splash_screen: ^0.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/images/currency_screen/
+    - assets/images/coin_screen/
+    - assets/images/gold_screen/
+    - assets/logo.png
+
+
+  fonts:
+    - family: iranSans
+      fonts:
+        - asset: assets/fonts/IRANSans.ttf
+        
+    - family: lalezar
+      fonts:
+        - asset: assets/fonts/Lalezar-Regular.ttf
+
+
