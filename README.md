@@ -1,6 +1,6 @@
-# Exchange-Rate
+# Exchango AI
 
-<p id="description">Exchange Rate is a Flutter application that displays the prices of currencies of different countries in Iranian Tomans, digital currencies, gold, and Iranian coins.
+<p id="description">Exchango AI is a Flutter application that displays the prices of currencies of different countries in Iranian Tomans, digital currencies, gold, and Iranian coins.
 </p>
 
 # 🧐 Features
